@@ -133,5 +133,5 @@ return { web3, accounts, Contract, eventSource }
 
 ### TOKEN Support
 
-Here's a list of all the tokens currently supported by the Dapper wallet.
+Here's a list of all the tokens currently supported by the Dapper wallet.<br/>
 https://github.com/dapperlabs/dapper-api/wiki/Tokens
