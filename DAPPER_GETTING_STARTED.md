@@ -131,4 +131,7 @@ const eventSource = new newestWeb3.eth.Contract(contractJSON.abi, "0x... Deploye
 return { web3, accounts, Contract, eventSource }
 ```
 
-Happy Hacking!
+### TOKEN Support
+
+Here's a list of all the tokens currently supported by the Dapper wallet.
+https://github.com/dapperlabs/dapper-api/wiki/Tokens
