@@ -135,3 +135,13 @@ return { web3, accounts, Contract, eventSource }
 
 Here's a list of all the tokens currently supported by the Dapper wallet.<br/>
 https://github.com/dapperlabs/dapper-api/wiki/Tokens
+
+
+### MISC
+
+More resources to help you when working with Dapper
+
+https://dapperdocs.netlify.com/
+
+https://zh-file.s3.amazonaws.com/167606914/bfc4bd66-4732-4bb3-aba9-7d47916f2642?Expires=1564692567&AWSAccessKeyId=AKIAI5X57DET3FHKSALA&Signature=OGJ8InyzpYpS8KXx3aGJyjMMYQU%3D
+
