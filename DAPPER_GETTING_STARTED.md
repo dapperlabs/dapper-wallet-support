@@ -139,7 +139,7 @@ https://github.com/dapperlabs/dapper-api/wiki/Tokens
 
 ### MISC
 
-More resources to help you when working with Dapper
+More resources to help you when working with Dapper:
 
 https://dapperdocs.netlify.com/
 
